@@ -1,0 +1,12 @@
+public class GreetingProgram {
+    public static void main(String[] args) {
+        // Predefined age as a primitive type (int)
+        int age = 25;
+
+        // Predefined name as a boxed type (String)
+        String name = "Skill Captain";
+
+        // Output the greeting with age and name
+        System.out.println("Hello, " + name + "! You are " + age + " years old.");
+    }
+}
